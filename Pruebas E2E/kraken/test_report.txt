@@ -1,0 +1,62 @@
+
+=== Analizando la carpeta: C:\Users\brall\OneDrive\Escritorio\estrategia-ghost-consolidada\Pruebas E2E\kraken\features\web\e2e\view ===
+
+
+Pruebas exitosas para: view_1.feature
+Successful tests:
+1 scenario (1 passed)
+20 steps (20 passed)
+0m19.859s (executing steps: 0m19.830s
+
+Fallaron las pruebas para: view_2.feature
+Successful tests:
+1 scenario (1 passed)
+23 steps (23 passed)
+0m22.276s (executing steps: 0m22.250s
+
+Pruebas exitosas para: view_3.feature
+Successful tests:
+1 scenario (1 passed)
+27 steps (27 passed)
+0m24.861s (executing steps: 0m24.827s
+
+
+=== Fin del análisis de la carpeta: C:\Users\brall\OneDrive\Escritorio\estrategia-ghost-consolidada\Pruebas E2E\kraken\features\web\e2e\view ===
+
+
+
+=== Analizando la carpeta: C:\Users\brall\OneDrive\Escritorio\estrategia-ghost-consolidada\Pruebas E2E\kraken\features\web\e2e\edit_profile ===
+
+
+Pruebas exitosas para: edit_profile.feature
+Successful tests:
+1 scenario (1 passed)
+37 steps (37 passed)
+0m33.588s (executing steps: 0m33.556s
+
+Pruebas exitosas para: edit_profile2.feature
+Successful tests:
+1 scenario (1 passed)
+22 steps (22 passed)
+0m22.738s (executing steps: 0m22.718s
+
+Pruebas exitosas para: edit_profile3.feature
+Successful tests:
+1 scenario (1 passed)
+28 steps (28 passed)
+0m28.872s (executing steps: 0m28.840s
+
+Pruebas exitosas para: edit_profile4.feature
+Successful tests:
+1 scenario (1 passed)
+12 steps (12 passed)
+0m16.070s (executing steps: 0m16.043s
+
+Pruebas exitosas para: edit_profile5.feature
+Successful tests:
+1 scenario (1 passed)
+14 steps (14 passed)
+0m19.038s (executing steps: 0m19.014s
+
+
+=== Fin del análisis de la carpeta: C:\Users\brall\OneDrive\Escritorio\estrategia-ghost-consolidada\Pruebas E2E\kraken\features\web\e2e\edit_profile ===

@@ -1,0 +1,44 @@
+
+=== Analizando la carpeta: C:\Users\brall\OneDrive\Escritorio\estrategia-ghost-consolidada\Pruebas regresión visual\kraken\features\web\tests_3.42_RV\ ===
+
+
+Pruebas exitosas para: create_post_v3.42.feature
+Successful tests:
+1 scenario (1 passed)
+18 steps (18 passed)
+0m22.241s (executing steps: 0m22.192s
+
+1 scenario (1 passed)
+16 steps (16 passed)
+0m22.465s (executing steps: 0m22.431s
+
+1 scenario (1 passed)
+18 steps (18 passed)
+0m22.546s (executing steps: 0m22.518s
+
+1 scenario (1 passed)
+14 steps (14 passed)
+0m22.985s (executing steps: 0m22.953s
+
+Pruebas exitosas para: create_tag_v3.42.feature
+Successful tests:
+1 scenario (1 passed)
+17 steps (17 passed)
+0m15.630s (executing steps: 0m15.600s
+
+
+=== Fin del análisis de la carpeta: C:\Users\brall\OneDrive\Escritorio\estrategia-ghost-consolidada\Pruebas regresión visual\kraken\features\web\tests_3.42_RV\ ===
+
+
+
+=== Analizando la carpeta: C:\Users\brall\OneDrive\Escritorio\estrategia-ghost-consolidada\Pruebas regresión visual\kraken\features\web\tests_5.82_RV\ ===
+
+
+Pruebas exitosas para: post
+No se encontraron resultados relevantes
+
+Pruebas exitosas para: tag
+No se encontraron resultados relevantes
+
+
+=== Fin del análisis de la carpeta: C:\Users\brall\OneDrive\Escritorio\estrategia-ghost-consolidada\Pruebas regresión visual\kraken\features\web\tests_5.82_RV\ ===

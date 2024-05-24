@@ -1,0 +1,705 @@
+
+=== Analizando la carpeta: C:\Users\brall\OneDrive\Escritorio\estrategia-ghost-consolidada\Pruebas regresión visual\kraken\features\web\tests_3.42_RV\ ===
+
+
+=== Ejecutando pruebas del archivo: create_post_v3.42.feature en el directorio: C:\Users\brall\OneDrive\Escritorio\estrategia-ghost-consolidada\Pruebas regresión visual\kraken\features\web\tests_3.42_RV\ ===
+
+Resultado de ejecución para create_post_v3.42.feature:
+The built-in JSON formatter is deprecated and will be removed in the next major release. Where you need a structured data representation of your test run, it's best to use the `message` formatter. For legacy tools that depend on the deprecated JSON format, a standalone formatter is available (see https://github.com/cucumber/cucumber/tree/master/json-formatter).
+The built-in JSON formatter is deprecated and will be removed in the next major release. Where you need a structured data representation of your test run, it's best to use the `message` formatter. For legacy tools that depend on the deprecated JSON format, a standalone formatter is available (see https://github.com/cucumber/cucumber/tree/master/json-formatter).
+The built-in JSON formatter is deprecated and will be removed in the next major release. Where you need a structured data representation of your test run, it's best to use the `message` formatter. For legacy tools that depend on the deprecated JSON format, a standalone formatter is available (see https://github.com/cucumber/cucumber/tree/master/json-formatter).
+The built-in JSON formatter is deprecated and will be removed in the next major release. Where you need a structured data representation of your test run, it's best to use the `message` formatter. For legacy tools that depend on the deprecated JSON format, a standalone formatter is available (see https://github.com/cucumber/cucumber/tree/master/json-formatter).
+[@faker-js/faker]: faker.company.bsBuzz is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzVerb instead.
+[@faker-js/faker]: faker.company.bsNoun is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzNoun instead.
+[@faker-js/faker]: faker.company.bs is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzPhrase instead.
+[@faker-js/faker]: faker.company.bsBuzz is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzVerb instead.
+[@faker-js/faker]: faker.company.bsNoun is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzNoun instead.
+[@faker-js/faker]: faker.company.bs is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzPhrase instead.
+[@faker-js/faker]: faker.company.bsBuzz is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzVerb instead.
+[@faker-js/faker]: faker.company.bsNoun is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzNoun instead.
+[@faker-js/faker]: faker.company.bs is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzPhrase instead.
+[@faker-js/faker]: faker.company.bsBuzz is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzVerb instead.
+[@faker-js/faker]: faker.company.bsNoun is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzNoun instead.
+[@faker-js/faker]: faker.company.bs is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzPhrase instead.
+[@faker-js/faker]: faker.company.bsBuzz is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzVerb instead.
+[@faker-js/faker]: faker.company.bsNoun is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzNoun instead.
+[@faker-js/faker]: faker.company.bs is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzPhrase instead.
+[@faker-js/faker]: faker.company.bsBuzz is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzVerb instead.
+[@faker-js/faker]: faker.company.bsNoun is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzNoun instead.
+[@faker-js/faker]: faker.company.bs is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzPhrase instead.
+[@faker-js/faker]: faker.company.bsBuzz is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzVerb instead.
+[@faker-js/faker]: faker.company.bsNoun is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzNoun instead.
+[@faker-js/faker]: faker.company.bs is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzPhrase instead.
+[@faker-js/faker]: faker.company.bsBuzz is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzVerb instead.
+[@faker-js/faker]: faker.company.bsNoun is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzNoun instead.
+[@faker-js/faker]: faker.company.bs is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzPhrase instead.
+[@faker-js/faker]: faker.company.bsBuzz is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzVerb instead.
+[@faker-js/faker]: faker.company.bsNoun is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzNoun instead.
+[@faker-js/faker]: faker.company.bs is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzPhrase instead.
+[@faker-js/faker]: faker.company.bsBuzz is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzVerb instead.
+[@faker-js/faker]: faker.company.bsNoun is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzNoun instead.
+[@faker-js/faker]: faker.company.bs is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzPhrase instead.
+[@faker-js/faker]: faker.company.bsBuzz is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzVerb instead.
+[@faker-js/faker]: faker.company.bsNoun is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzNoun instead.
+[@faker-js/faker]: faker.company.bs is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzPhrase instead.
+[@faker-js/faker]: faker.company.bsBuzz is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzVerb instead.
+[@faker-js/faker]: faker.company.bsNoun is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzNoun instead.
+[@faker-js/faker]: faker.company.bs is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzPhrase instead.
+[@faker-js/faker]: faker.company.bsBuzz is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzVerb instead.
+[@faker-js/faker]: faker.company.bsNoun is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzNoun instead.
+[@faker-js/faker]: faker.company.bs is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzPhrase instead.
+[@faker-js/faker]: faker.company.bsBuzz is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzVerb instead.
+[@faker-js/faker]: faker.company.bsNoun is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzNoun instead.
+[@faker-js/faker]: faker.company.bs is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzPhrase instead.
+[@faker-js/faker]: faker.company.bsBuzz is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzVerb instead.
+[@faker-js/faker]: faker.company.bsNoun is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzNoun instead.
+[@faker-js/faker]: faker.company.bs is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzPhrase instead.
+[@faker-js/faker]: faker.company.bsBuzz is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzVerb instead.
+[@faker-js/faker]: faker.company.bsNoun is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzNoun instead.
+[@faker-js/faker]: faker.company.bs is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzPhrase instead.
+[@faker-js/faker]: faker.company.bsBuzz is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzVerb instead.
+[@faker-js/faker]: faker.company.bsNoun is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzNoun instead.
+[@faker-js/faker]: faker.company.bs is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzPhrase instead.
+[@faker-js/faker]: faker.company.bsBuzz is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzVerb instead.
+[@faker-js/faker]: faker.company.bsNoun is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzNoun instead.
+[@faker-js/faker]: faker.company.bs is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzPhrase instead.
+[@faker-js/faker]: faker.company.bsBuzz is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzVerb instead.
+[@faker-js/faker]: faker.company.bsNoun is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzNoun instead.
+[@faker-js/faker]: faker.company.bs is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzPhrase instead.
+[@faker-js/faker]: faker.company.bsBuzz is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzVerb instead.
+2024-05-24T23:19:33.028Z INFO devtools:puppeteer: Initiate new session using the DevTools protocol
+[@faker-js/faker]: faker.company.bsNoun is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzNoun instead.
+[@faker-js/faker]: faker.company.bs is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzPhrase instead.
+2024-05-24T23:19:33.029Z INFO devtools: Launch Google Chrome with flags: --enable-automation --disable-popup-blocking --disable-extensions --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-sync --metrics-recording-only --disable-default-apps --mute-audio --no-first-run --no-default-browser-check --disable-hang-monitor --disable-prompt-on-repost --disable-client-side-phishing-detection --password-store=basic --use-mock-keychain --disable-component-extensions-with-background-pages --disable-breakpad --disable-dev-shm-usage --disable-ipc-flooding-protection --disable-renderer-backgrounding --force-fieldtrials=*BackgroundTracing/default/ --enable-features=NetworkService,NetworkServiceInProcess --disable-features=site-per-process,TranslateUI,BlinkGenPropertyTrees --window-position=0,0 --window-size=1200,900
+2024-05-24T23:19:33.073Z INFO devtools:puppeteer: Initiate new session using the DevTools protocol
+2024-05-24T23:19:33.074Z INFO devtools: Launch Google Chrome with flags: --enable-automation --disable-popup-blocking --disable-extensions --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-sync --metrics-recording-only --disable-default-apps --mute-audio --no-first-run --no-default-browser-check --disable-hang-monitor --disable-prompt-on-repost --disable-client-side-phishing-detection --password-store=basic --use-mock-keychain --disable-component-extensions-with-background-pages --disable-breakpad --disable-dev-shm-usage --disable-ipc-flooding-protection --disable-renderer-backgrounding --force-fieldtrials=*BackgroundTracing/default/ --enable-features=NetworkService,NetworkServiceInProcess --disable-features=site-per-process,TranslateUI,BlinkGenPropertyTrees --window-position=0,0 --window-size=1200,900
+2024-05-24T23:19:33.076Z INFO devtools:puppeteer: Initiate new session using the DevTools protocol
+2024-05-24T23:19:33.075Z INFO devtools:puppeteer: Initiate new session using the DevTools protocol
+2024-05-24T23:19:33.077Z INFO devtools: Launch Google Chrome with flags: --enable-automation --disable-popup-blocking --disable-extensions --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-sync --metrics-recording-only --disable-default-apps --mute-audio --no-first-run --no-default-browser-check --disable-hang-monitor --disable-prompt-on-repost --disable-client-side-phishing-detection --password-store=basic --use-mock-keychain --disable-component-extensions-with-background-pages --disable-breakpad --disable-dev-shm-usage --disable-ipc-flooding-protection --disable-renderer-backgrounding --force-fieldtrials=*BackgroundTracing/default/ --enable-features=NetworkService,NetworkServiceInProcess --disable-features=site-per-process,TranslateUI,BlinkGenPropertyTrees --window-position=0,0 --window-size=1200,900
+2024-05-24T23:19:33.076Z INFO devtools: Launch Google Chrome with flags: --enable-automation --disable-popup-blocking --disable-extensions --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-sync --metrics-recording-only --disable-default-apps --mute-audio --no-first-run --no-default-browser-check --disable-hang-monitor --disable-prompt-on-repost --disable-client-side-phishing-detection --password-store=basic --use-mock-keychain --disable-component-extensions-with-background-pages --disable-breakpad --disable-dev-shm-usage --disable-ipc-flooding-protection --disable-renderer-backgrounding --force-fieldtrials=*BackgroundTracing/default/ --enable-features=NetworkService,NetworkServiceInProcess --disable-features=site-per-process,TranslateUI,BlinkGenPropertyTrees --window-position=0,0 --window-size=1200,900
+2024-05-24T23:19:33.557Z INFO devtools: Connect Puppeteer with browser on port 58104
+2024-05-24T23:19:33.589Z INFO devtools: Connect Puppeteer with browser on port 58109
+2024-05-24T23:19:33.605Z INFO devtools: Connect Puppeteer with browser on port 58111
+2024-05-24T23:19:33.606Z INFO devtools: Connect Puppeteer with browser on port 58110
+..2024-05-24T23:19:34.471Z INFO devtools: COMMAND navigateTo("http://34.68.28.121/ghost/#/setup")
+2024-05-24T23:19:34.472Z INFO devtools: COMMAND navigateTo("http://34.68.28.121/ghost/#/setup")
+..2024-05-24T23:19:35.476Z INFO devtools: COMMAND navigateTo("http://34.68.28.121/ghost/#/setup")
+2024-05-24T23:19:35.476Z INFO devtools: COMMAND navigateTo("http://34.68.28.121/ghost/#/setup")
+2024-05-24T23:19:38.378Z INFO devtools: RESULT null
+2024-05-24T23:19:38.423Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:38.471Z INFO devtools: RESULT null
+2024-05-24T23:19:38.512Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:38.528Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAPwCAIAAABhm7HVAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:38.589Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:39.358Z INFO devtools: RESULT null
+2024-05-24T23:19:39.390Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:39.398Z INFO devtools: RESULT null
+2024-05-24T23:19:39.450Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:39.544Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAPwCAIAAABhm7HVAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:39.572Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAPwCAIAAABhm7HVAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:40.533Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:40.595Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:40.601Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:40.606Z INFO devtools: COMMAND findElement("css selector", "button[tabindex="3"]")
+2024-05-24T23:19:40.607Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-1' }
+2024-05-24T23:19:40.613Z INFO devtools: COMMAND findElements("css selector", "button[tabindex="3"]")
+2024-05-24T23:19:40.615Z INFO devtools: RESULT [ { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-2' } ]
+2024-05-24T23:19:40.618Z INFO devtools: COMMAND findElement("css selector", "input[name="identification"]")
+2024-05-24T23:19:40.619Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-3' }
+2024-05-24T23:19:40.620Z INFO devtools: COMMAND elementClear("ELEMENT-3")
+2024-05-24T23:19:40.623Z INFO devtools: RESULT null
+2024-05-24T23:19:40.628Z INFO devtools: COMMAND elementSendKeys("ELEMENT-3", "equipo20@misw4103.com")
+2024-05-24T23:19:40.663Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:40.667Z INFO devtools: COMMAND findElement("css selector", "button[tabindex="3"]")
+2024-05-24T23:19:40.669Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-1' }
+2024-05-24T23:19:40.675Z INFO devtools: COMMAND findElements("css selector", "button[tabindex="3"]")
+2024-05-24T23:19:40.677Z INFO devtools: RESULT [ { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-2' } ]
+2024-05-24T23:19:40.680Z INFO devtools: COMMAND findElement("css selector", "input[name="identification"]")
+2024-05-24T23:19:40.681Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-3' }
+2024-05-24T23:19:40.683Z INFO devtools: RESULT null
+2024-05-24T23:19:40.683Z INFO devtools: COMMAND elementClear("ELEMENT-3")
+2024-05-24T23:19:40.684Z INFO devtools: COMMAND findElement("css selector", "input[name="password"]")
+2024-05-24T23:19:40.685Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-4' }
+2024-05-24T23:19:40.685Z INFO devtools: RESULT null
+2024-05-24T23:19:40.687Z INFO devtools: COMMAND elementClear("ELEMENT-4")
+2024-05-24T23:19:40.689Z INFO devtools: RESULT null
+2024-05-24T23:19:40.691Z INFO devtools: COMMAND elementSendKeys("ELEMENT-4", "<Screenshot[base64]>")
+2024-05-24T23:19:40.691Z INFO devtools: COMMAND elementSendKeys("ELEMENT-3", "equipo20@misw4103.com")
+2024-05-24T23:19:40.726Z INFO devtools: RESULT null
+2024-05-24T23:19:40.728Z INFO devtools: COMMAND elementClick("ELEMENT-1")
+2024-05-24T23:19:40.749Z INFO devtools: RESULT null
+2024-05-24T23:19:40.749Z INFO devtools: RESULT null
+2024-05-24T23:19:40.750Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:40.752Z INFO devtools: COMMAND findElement("css selector", "input[name="password"]")
+2024-05-24T23:19:40.754Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-4' }
+2024-05-24T23:19:40.756Z INFO devtools: COMMAND elementClear("ELEMENT-4")
+2024-05-24T23:19:40.757Z INFO devtools: RESULT null
+2024-05-24T23:19:40.759Z INFO devtools: COMMAND elementSendKeys("ELEMENT-4", "<Screenshot[base64]>")
+2024-05-24T23:19:40.788Z INFO devtools: RESULT null
+2024-05-24T23:19:40.790Z INFO devtools: COMMAND elementClick("ELEMENT-1")
+2024-05-24T23:19:40.811Z INFO devtools: RESULT null
+2024-05-24T23:19:40.813Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:40.869Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+2024-05-24T23:19:40.872Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:40.930Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+2024-05-24T23:19:40.933Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:40.952Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:41.013Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:41.555Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:41.586Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:41.640Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:41.645Z INFO devtools: COMMAND findElement("css selector", "button[tabindex="3"]")
+2024-05-24T23:19:41.649Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-1' }
+2024-05-24T23:19:41.655Z INFO devtools: COMMAND findElements("css selector", "button[tabindex="3"]")
+2024-05-24T23:19:41.657Z INFO devtools: RESULT [ { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-2' } ]
+2024-05-24T23:19:41.661Z INFO devtools: COMMAND findElement("css selector", "input[name="identification"]")
+2024-05-24T23:19:41.662Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-3' }
+2024-05-24T23:19:41.665Z INFO devtools: COMMAND elementClear("ELEMENT-3")
+2024-05-24T23:19:41.666Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:41.668Z INFO devtools: RESULT null
+2024-05-24T23:19:41.671Z INFO devtools: COMMAND findElement("css selector", "button[tabindex="3"]")
+2024-05-24T23:19:41.674Z INFO devtools: COMMAND elementSendKeys("ELEMENT-3", "equipo20@misw4103.com")
+2024-05-24T23:19:41.674Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-1' }
+2024-05-24T23:19:41.680Z INFO devtools: COMMAND findElements("css selector", "button[tabindex="3"]")
+2024-05-24T23:19:41.682Z INFO devtools: RESULT [ { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-2' } ]
+2024-05-24T23:19:41.687Z INFO devtools: COMMAND findElement("css selector", "input[name="identification"]")
+2024-05-24T23:19:41.688Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-3' }
+2024-05-24T23:19:41.692Z INFO devtools: COMMAND elementClear("ELEMENT-3")
+2024-05-24T23:19:41.696Z INFO devtools: RESULT null
+2024-05-24T23:19:41.706Z INFO devtools: COMMAND elementSendKeys("ELEMENT-3", "equipo20@misw4103.com")
+2024-05-24T23:19:41.818Z INFO devtools: RESULT null
+2024-05-24T23:19:41.822Z INFO devtools: COMMAND findElement("css selector", "input[name="password"]")
+2024-05-24T23:19:41.823Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-4' }
+2024-05-24T23:19:41.826Z INFO devtools: COMMAND elementClear("ELEMENT-4")
+2024-05-24T23:19:41.828Z INFO devtools: RESULT null
+2024-05-24T23:19:41.831Z INFO devtools: COMMAND elementSendKeys("ELEMENT-4", "<Screenshot[base64]>")
+2024-05-24T23:19:41.849Z INFO devtools: RESULT null
+2024-05-24T23:19:41.850Z INFO devtools: COMMAND findElement("css selector", "input[name="password"]")
+2024-05-24T23:19:41.851Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-4' }
+2024-05-24T23:19:41.854Z INFO devtools: COMMAND elementClear("ELEMENT-4")
+2024-05-24T23:19:41.858Z INFO devtools: RESULT null
+2024-05-24T23:19:41.860Z INFO devtools: COMMAND elementSendKeys("ELEMENT-4", "<Screenshot[base64]>")
+2024-05-24T23:19:41.875Z INFO devtools: RESULT null
+2024-05-24T23:19:41.876Z INFO devtools: COMMAND elementClick("ELEMENT-1")
+2024-05-24T23:19:41.907Z INFO devtools: RESULT null
+2024-05-24T23:19:41.909Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:41.915Z INFO devtools: RESULT null
+2024-05-24T23:19:41.917Z INFO devtools: COMMAND elementClick("ELEMENT-1")
+2024-05-24T23:19:41.938Z INFO devtools: RESULT null
+2024-05-24T23:19:41.939Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:42.024Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:42.051Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+2024-05-24T23:19:42.052Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+2024-05-24T23:19:42.054Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:42.055Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:42.110Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:42.131Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:42.148Z INFO devtools: COMMAND findElement("css selector", "a[href="#/editor/post/"]")
+2024-05-24T23:19:42.150Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-5' }
+2024-05-24T23:19:42.154Z INFO devtools: COMMAND elementClick("ELEMENT-5")
+2024-05-24T23:19:42.155Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:42.299Z INFO devtools: RESULT null
+2024-05-24T23:19:42.308Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:42.549Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+2024-05-24T23:19:42.553Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:42.648Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:42.959Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:43.097Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:43.103Z INFO devtools: COMMAND findElement("css selector", "a[href="#/editor/post/"]")
+2024-05-24T23:19:43.104Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-5' }
+2024-05-24T23:19:43.107Z INFO devtools: COMMAND elementClick("ELEMENT-5")
+2024-05-24T23:19:43.148Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:43.160Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:43.245Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:43.256Z INFO devtools: COMMAND findElement("css selector", "a[href="#/editor/post/"]")
+2024-05-24T23:19:43.257Z INFO devtools: RESULT null
+2024-05-24T23:19:43.257Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-5' }
+2024-05-24T23:19:43.261Z INFO devtools: COMMAND elementClick("ELEMENT-5")
+2024-05-24T23:19:43.277Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:43.290Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:43.303Z INFO devtools: COMMAND findElement("css selector", "a[href="#/editor/post/"]")
+2024-05-24T23:19:43.305Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-5' }
+2024-05-24T23:19:43.312Z INFO devtools: COMMAND elementClick("ELEMENT-5")
+2024-05-24T23:19:43.450Z INFO devtools: RESULT null
+2024-05-24T23:19:43.464Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:43.490Z INFO devtools: RESULT null
+2024-05-24T23:19:43.502Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+2024-05-24T23:19:43.502Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:43.509Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:43.607Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:43.663Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:43.672Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+2024-05-24T23:19:43.681Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:43.712Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+2024-05-24T23:19:43.716Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:43.761Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:43.767Z INFO devtools: COMMAND findElement("css selector", ".koenig-editor__editor > p")
+2024-05-24T23:19:43.768Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-6' }
+2024-05-24T23:19:43.773Z INFO devtools: COMMAND executeScript(<fn>, <object>)
+2024-05-24T23:19:43.778Z INFO devtools: COMMAND elementClick("ELEMENT-6")
+2024-05-24T23:19:43.787Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:43.799Z INFO devtools: RESULT null
+2024-05-24T23:19:43.801Z INFO devtools: COMMAND performActions(<object>)
+2024-05-24T23:19:43.814Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:43.997Z INFO devtools: COMMAND releaseActions()
+2024-05-24T23:19:43.998Z INFO devtools: COMMAND performActions(<object>)
+2024-05-24T23:19:44.004Z INFO devtools: COMMAND releaseActions()
+2024-05-24T23:19:44.005Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:44.102Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+2024-05-24T23:19:44.105Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:44.225Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:44.620Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:44.727Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:44.732Z INFO devtools: COMMAND findElement("css selector", ".gh-editor-title")
+2024-05-24T23:19:44.733Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-6' }
+2024-05-24T23:19:44.737Z INFO devtools: COMMAND elementClear("ELEMENT-6")
+2024-05-24T23:19:44.740Z INFO devtools: RESULT null
+2024-05-24T23:19:44.742Z INFO devtools: COMMAND elementSendKeys("ELEMENT-6", "Kraken post tests E2E")
+2024-05-24T23:19:44.808Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:44.826Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:44.894Z INFO devtools: RESULT null
+2024-05-24T23:19:44.896Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:44.934Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:44.940Z INFO devtools: COMMAND findElement("css selector", ".gh-editor-title")
+2024-05-24T23:19:44.942Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-6' }
+2024-05-24T23:19:44.948Z INFO devtools: COMMAND elementClear("ELEMENT-6")
+2024-05-24T23:19:44.951Z INFO devtools: RESULT null
+2024-05-24T23:19:44.953Z INFO devtools: COMMAND elementSendKeys("ELEMENT-6", "Kraken post tests E2E")
+2024-05-24T23:19:44.956Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:44.967Z INFO devtools: COMMAND findElement("css selector", ".gh-editor-title")
+2024-05-24T23:19:44.971Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-6' }
+2024-05-24T23:19:44.974Z INFO devtools: COMMAND elementClear("ELEMENT-6")
+2024-05-24T23:19:44.978Z INFO devtools: RESULT null
+2024-05-24T23:19:44.982Z INFO devtools: COMMAND elementSendKeys("ELEMENT-6", "Kraken post tests E2E")
+2024-05-24T23:19:45.022Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+2024-05-24T23:19:45.029Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:45.096Z INFO devtools: RESULT null
+2024-05-24T23:19:45.099Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:45.118Z INFO devtools: RESULT null
+2024-05-24T23:19:45.119Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:45.148Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:45.213Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+2024-05-24T23:19:45.217Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:45.248Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:45.261Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+2024-05-24T23:19:45.266Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:45.329Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:45.369Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:45.375Z INFO devtools: COMMAND findElement("css selector", "div.gh-btn-outline.gh-publishmenu-trigger")
+2024-05-24T23:19:45.376Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-7' }
+2024-05-24T23:19:45.379Z INFO devtools: COMMAND elementClick("ELEMENT-7")
+2024-05-24T23:19:45.379Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:45.431Z INFO devtools: RESULT null
+2024-05-24T23:19:45.432Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:45.609Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+2024-05-24T23:19:45.612Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:45.728Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:46.161Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:46.246Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:46.250Z INFO devtools: COMMAND findElement("css selector", ".koenig-editor__editor > p")
+2024-05-24T23:19:46.250Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-7' }
+2024-05-24T23:19:46.253Z INFO devtools: COMMAND executeScript(<fn>, <object>)
+2024-05-24T23:19:46.258Z INFO devtools: COMMAND elementClick("ELEMENT-7")
+2024-05-24T23:19:46.276Z INFO devtools: RESULT null
+2024-05-24T23:19:46.278Z INFO devtools: COMMAND performActions(<object>)
+2024-05-24T23:19:46.335Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:46.401Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:46.426Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:46.433Z INFO devtools: COMMAND findElement("css selector", ".koenig-editor__editor > p")
+2024-05-24T23:19:46.433Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-7' }
+2024-05-24T23:19:46.437Z INFO devtools: COMMAND executeScript(<fn>, <object>)
+2024-05-24T23:19:46.444Z INFO devtools: COMMAND elementClick("ELEMENT-7")
+2024-05-24T23:19:46.467Z INFO devtools: RESULT null
+2024-05-24T23:19:46.470Z INFO devtools: COMMAND releaseActions()
+2024-05-24T23:19:46.470Z INFO devtools: COMMAND performActions(<object>)
+2024-05-24T23:19:46.471Z INFO devtools: COMMAND performActions(<object>)
+2024-05-24T23:19:46.478Z INFO devtools: COMMAND releaseActions()
+2024-05-24T23:19:46.480Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:46.496Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:46.501Z INFO devtools: COMMAND findElement("css selector", ".koenig-editor__editor > p")
+2024-05-24T23:19:46.501Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-7' }
+2024-05-24T23:19:46.504Z INFO devtools: COMMAND executeScript(<fn>, <object>)
+2024-05-24T23:19:46.512Z INFO devtools: COMMAND elementClick("ELEMENT-7")
+2024-05-24T23:19:46.536Z INFO devtools: RESULT null
+2024-05-24T23:19:46.541Z INFO devtools: COMMAND performActions(<object>)
+2024-05-24T23:19:46.573Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+2024-05-24T23:19:46.576Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:46.678Z INFO devtools: COMMAND releaseActions()
+2024-05-24T23:19:46.680Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+2024-05-24T23:19:46.679Z INFO devtools: COMMAND performActions(<object>)
+.2024-05-24T23:19:46.686Z INFO devtools: COMMAND releaseActions()
+2024-05-24T23:19:46.687Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:46.735Z INFO devtools: COMMAND releaseActions()
+2024-05-24T23:19:46.736Z INFO devtools: COMMAND performActions(<object>)
+2024-05-24T23:19:46.742Z INFO devtools: COMMAND releaseActions()
+2024-05-24T23:19:46.742Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:46.743Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:46.780Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+2024-05-24T23:19:46.784Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:46.843Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:46.846Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+2024-05-24T23:19:46.847Z INFO devtools: COMMAND findElement("css selector", ".gh-publishmenu-button")
+2024-05-24T23:19:46.848Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-8' }
+2024-05-24T23:19:46.849Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:46.855Z INFO devtools: COMMAND elementClick("ELEMENT-8")
+2024-05-24T23:19:46.876Z INFO devtools: RESULT null
+2024-05-24T23:19:46.877Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:46.879Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:46.944Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:47.016Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+2024-05-24T23:19:47.020Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:47.113Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:47.692Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:47.783Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:47.786Z INFO devtools: COMMAND findElement("css selector", "div.gh-btn-outline.gh-publishmenu-trigger")
+2024-05-24T23:19:47.787Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-8' }
+2024-05-24T23:19:47.789Z INFO devtools: COMMAND elementClick("ELEMENT-8")
+2024-05-24T23:19:47.821Z INFO devtools: RESULT null
+2024-05-24T23:19:47.822Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:47.896Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:47.961Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:47.996Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+2024-05-24T23:19:47.999Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+2024-05-24T23:19:48.000Z INFO devtools: COMMAND takeScreenshot()
+.2024-05-24T23:19:48.004Z INFO devtools: COMMAND findElement("css selector", "div.gh-btn-outline.gh-publishmenu-trigger")
+2024-05-24T23:19:48.007Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-8' }
+2024-05-24T23:19:48.009Z INFO devtools: COMMAND elementClick("ELEMENT-8")
+2024-05-24T23:19:48.043Z INFO devtools: RESULT null
+2024-05-24T23:19:48.044Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:48.057Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:48.061Z INFO devtools: COMMAND findElement("css selector", ".koenig-plus-menu-button")
+2024-05-24T23:19:48.062Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-8' }
+2024-05-24T23:19:48.065Z INFO devtools: COMMAND elementClick("ELEMENT-8")
+2024-05-24T23:19:48.095Z INFO devtools: RESULT null
+2024-05-24T23:19:48.097Z INFO devtools: COMMAND findElement("css selector", "div[title="Image"]")
+2024-05-24T23:19:48.098Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-9' }
+2024-05-24T23:19:48.102Z INFO devtools: COMMAND elementClick("ELEMENT-9")
+2024-05-24T23:19:48.105Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:48.131Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:48.213Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+2024-05-24T23:19:48.216Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:48.241Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:48.246Z INFO devtools: COMMAND findElement("css selector", "a[href="#/posts/"]")
+2024-05-24T23:19:48.247Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-9' }
+2024-05-24T23:19:48.250Z INFO devtools: COMMAND elementClick("ELEMENT-9")
+2024-05-24T23:19:48.263Z INFO devtools: RESULT null
+2024-05-24T23:19:48.271Z INFO devtools: COMMAND findElement("css selector", "div[style="display:none"] > span.x-file-input.ember-view > input[type="file"]")
+2024-05-24T23:19:48.273Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-10' }
+2024-05-24T23:19:48.276Z INFO devtools: COMMAND elementClear("ELEMENT-10")
+2024-05-24T23:19:48.280Z INFO devtools: RESULT null
+2024-05-24T23:19:48.295Z INFO devtools: COMMAND elementSendKeys("ELEMENT-10", "C:\Users\brall\OneDrive\Escritorio\estrategia-ghost-consolidada\Pruebas regresión visual\kraken\features\web\resources\image_feature.jpeg")
+2024-05-24T23:19:48.309Z INFO devtools: RESULT null
+2024-05-24T23:19:48.310Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:48.328Z INFO devtools: RESULT null
+2024-05-24T23:19:48.327Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:48.334Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:48.560Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+2024-05-24T23:19:48.564Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:48.691Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+2024-05-24T23:19:48.696Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:48.729Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:48.793Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:49.111Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:49.203Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:49.205Z INFO devtools: COMMAND findElement("css selector", ".gh-publishmenu-section > div:nth-child(2)")
+2024-05-24T23:19:49.206Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-9' }
+2024-05-24T23:19:49.211Z INFO devtools: COMMAND elementClick("ELEMENT-9")
+2024-05-24T23:19:49.245Z INFO devtools: RESULT null
+2024-05-24T23:19:49.250Z INFO devtools: COMMAND findElement("css selector", "button.ember-power-calendar-day--selected")
+2024-05-24T23:19:49.252Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-10' }
+2024-05-24T23:19:49.254Z INFO devtools: COMMAND elementClick("ELEMENT-10")
+2024-05-24T23:19:49.281Z INFO devtools: RESULT null
+2024-05-24T23:19:49.282Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:49.342Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:49.399Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+2024-05-24T23:19:49.403Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:49.442Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:49.446Z INFO devtools: COMMAND findElement("css selector", ".gh-publishmenu-button")
+2024-05-24T23:19:49.446Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-9' }
+2024-05-24T23:19:49.450Z INFO devtools: COMMAND elementClick("ELEMENT-9")
+2024-05-24T23:19:49.472Z INFO devtools: RESULT null
+2024-05-24T23:19:49.473Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:49.504Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:49.574Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+2024-05-24T23:19:49.577Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:49.678Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:49.738Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:49.853Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:49.856Z INFO devtools: COMMAND findElement("css selector", "div.gh-btn-outline.gh-publishmenu-trigger")
+2024-05-24T23:19:49.857Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-11' }
+2024-05-24T23:19:49.861Z INFO devtools: COMMAND elementClick("ELEMENT-11")
+2024-05-24T23:19:49.896Z INFO devtools: RESULT null
+2024-05-24T23:19:49.897Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:50.014Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+2024-05-24T23:19:50.018Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:50.125Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:50.509Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:50.603Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:50.606Z INFO devtools: COMMAND findElement("css selector", ".gh-publishmenu-button")
+2024-05-24T23:19:50.607Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-11' }
+2024-05-24T23:19:50.608Z INFO devtools: COMMAND elementClick("ELEMENT-11")
+2024-05-24T23:19:50.634Z INFO devtools: RESULT null
+2024-05-24T23:19:50.635Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:50.695Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:50.739Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+2024-05-24T23:19:50.743Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:50.790Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:50.793Z INFO devtools: COMMAND findElement("css selector", "a[href="#/posts/"]")
+2024-05-24T23:19:50.794Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-10' }
+2024-05-24T23:19:50.796Z INFO devtools: COMMAND elementClick("ELEMENT-10")
+2024-05-24T23:19:50.809Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:50.834Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:50.865Z INFO devtools: RESULT null
+2024-05-24T23:19:50.870Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:50.921Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:51.137Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:51.205Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+2024-05-24T23:19:51.209Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:51.230Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:51.233Z INFO devtools: COMMAND findElement("css selector", ".gh-publishmenu-button")
+2024-05-24T23:19:51.233Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-12' }
+2024-05-24T23:19:51.236Z INFO devtools: COMMAND elementClick("ELEMENT-12")
+2024-05-24T23:19:51.260Z INFO devtools: RESULT null
+2024-05-24T23:19:51.263Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:51.295Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:51.389Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+2024-05-24T23:19:51.392Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:51.505Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:51.839Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:51.940Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:51.944Z INFO devtools: COMMAND navigateTo("http://34.68.28.121/ghost/#/posts")
+2024-05-24T23:19:51.949Z INFO devtools: RESULT null
+2024-05-24T23:19:51.992Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:52.349Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:52.521Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:52.618Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:52.621Z INFO devtools: COMMAND findElement("css selector", "a[href="#/posts/"]")
+2024-05-24T23:19:52.622Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-13' }
+2024-05-24T23:19:52.627Z INFO devtools: COMMAND elementClick("ELEMENT-13")
+2024-05-24T23:19:52.697Z INFO devtools: RESULT null
+2024-05-24T23:19:52.702Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:53.007Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+2024-05-24T23:19:53.010Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:53.101Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:53.312Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:53.359Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:53.412Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:53.488Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAAB40AAAOvCAIAAABXi8XRAAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:55.108Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:19:55.210Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+.2024-05-24T23:19:55.217Z INFO devtools: COMMAND deleteSession()
+2024-05-24T23:19:55.218Z INFO devtools: RESULT null
+.
+
+1 scenario (1 passed)
+18 steps (18 passed)
+0m22.241s (executing steps: 0m22.192s)
+2024-05-24T23:19:55.440Z INFO devtools: COMMAND deleteSession()
+2024-05-24T23:19:55.441Z INFO devtools: RESULT null
+.
+
+1 scenario (1 passed)
+16 steps (16 passed)
+0m22.465s (executing steps: 0m22.431s)
+2024-05-24T23:19:55.521Z INFO devtools: COMMAND deleteSession()
+2024-05-24T23:19:55.522Z INFO devtools: RESULT null
+.
+
+1 scenario (1 passed)
+18 steps (18 passed)
+0m22.546s (executing steps: 0m22.518s)
+2024-05-24T23:19:55.976Z INFO devtools: COMMAND deleteSession()
+2024-05-24T23:19:55.977Z INFO devtools: RESULT null
+.
+
+1 scenario (1 passed)
+14 steps (14 passed)
+0m22.985s (executing steps: 0m22.953s)
+
+
+Pruebas exitosas para: create_post_v3.42.feature
+
+Archivo retornado a su ubicación original: create_post_v3.42.feature
+
+=== Fin de pruebas para el archivo: create_post_v3.42.feature en el directorio: C:\Users\brall\OneDrive\Escritorio\estrategia-ghost-consolidada\Pruebas regresión visual\kraken\features\web\tests_3.42_RV\ ===
+
+
+=== Ejecutando pruebas del archivo: create_tag_v3.42.feature en el directorio: C:\Users\brall\OneDrive\Escritorio\estrategia-ghost-consolidada\Pruebas regresión visual\kraken\features\web\tests_3.42_RV\ ===
+
+Resultado de ejecución para create_tag_v3.42.feature:
+The built-in JSON formatter is deprecated and will be removed in the next major release. Where you need a structured data representation of your test run, it's best to use the `message` formatter. For legacy tools that depend on the deprecated JSON format, a standalone formatter is available (see https://github.com/cucumber/cucumber/tree/master/json-formatter).
+[@faker-js/faker]: faker.company.bsBuzz is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzVerb instead.
+[@faker-js/faker]: faker.company.bsNoun is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzNoun instead.
+[@faker-js/faker]: faker.company.bs is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzPhrase instead.
+[@faker-js/faker]: faker.company.bsBuzz is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzVerb instead.
+[@faker-js/faker]: faker.company.bsNoun is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzNoun instead.
+[@faker-js/faker]: faker.company.bs is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzPhrase instead.
+[@faker-js/faker]: faker.company.bsBuzz is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzVerb instead.
+[@faker-js/faker]: faker.company.bsNoun is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzNoun instead.
+[@faker-js/faker]: faker.company.bs is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzPhrase instead.
+[@faker-js/faker]: faker.company.bsBuzz is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzVerb instead.
+[@faker-js/faker]: faker.company.bsNoun is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzNoun instead.
+[@faker-js/faker]: faker.company.bs is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzPhrase instead.
+[@faker-js/faker]: faker.company.bsBuzz is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzVerb instead.
+[@faker-js/faker]: faker.company.bsNoun is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzNoun instead.
+[@faker-js/faker]: faker.company.bs is deprecated since v8.0 and will be removed in v9.0. Please use faker.company.buzzPhrase instead.
+2024-05-24T23:20:02.157Z INFO devtools:puppeteer: Initiate new session using the DevTools protocol
+2024-05-24T23:20:02.158Z INFO devtools: Launch Google Chrome with flags: --enable-automation --disable-popup-blocking --disable-extensions --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-sync --metrics-recording-only --disable-default-apps --mute-audio --no-first-run --no-default-browser-check --disable-hang-monitor --disable-prompt-on-repost --disable-client-side-phishing-detection --password-store=basic --use-mock-keychain --disable-component-extensions-with-background-pages --disable-breakpad --disable-dev-shm-usage --disable-ipc-flooding-protection --disable-renderer-backgrounding --force-fieldtrials=*BackgroundTracing/default/ --enable-features=NetworkService,NetworkServiceInProcess --disable-features=site-per-process,TranslateUI,BlinkGenPropertyTrees --window-position=0,0 --window-size=1200,900
+2024-05-24T23:20:02.676Z INFO devtools: Connect Puppeteer with browser on port 58254
+.2024-05-24T23:20:02.755Z INFO devtools: COMMAND navigateTo("http://34.68.28.121/ghost/#/setup")
+2024-05-24T23:20:06.691Z INFO devtools: RESULT null
+2024-05-24T23:20:06.721Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:20:06.812Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAPwCAIAAABhm7HVAAAAAXNSR0IArs4c6...
+.2024-05-24T23:20:07.821Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:20:07.886Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+.2024-05-24T23:20:07.890Z INFO devtools: COMMAND findElement("css selector", "button[tabindex="3"]")
+2024-05-24T23:20:07.892Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-1' }
+2024-05-24T23:20:07.896Z INFO devtools: COMMAND findElements("css selector", "button[tabindex="3"]")
+2024-05-24T23:20:07.899Z INFO devtools: RESULT [ { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-2' } ]
+2024-05-24T23:20:07.902Z INFO devtools: COMMAND findElement("css selector", "input[name="identification"]")
+2024-05-24T23:20:07.902Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-3' }
+2024-05-24T23:20:07.906Z INFO devtools: COMMAND elementClear("ELEMENT-3")
+2024-05-24T23:20:07.908Z INFO devtools: RESULT null
+2024-05-24T23:20:07.912Z INFO devtools: COMMAND elementSendKeys("ELEMENT-3", "equipo20@misw4103.com")
+2024-05-24T23:20:07.963Z INFO devtools: RESULT null
+2024-05-24T23:20:07.964Z INFO devtools: COMMAND findElement("css selector", "input[name="password"]")
+2024-05-24T23:20:07.965Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-4' }
+2024-05-24T23:20:07.966Z INFO devtools: COMMAND elementClear("ELEMENT-4")
+2024-05-24T23:20:07.969Z INFO devtools: RESULT null
+2024-05-24T23:20:07.970Z INFO devtools: COMMAND elementSendKeys("ELEMENT-4", "<Screenshot[base64]>")
+2024-05-24T23:20:07.994Z INFO devtools: RESULT null
+2024-05-24T23:20:07.995Z INFO devtools: COMMAND elementClick("ELEMENT-1")
+2024-05-24T23:20:08.017Z INFO devtools: RESULT null
+2024-05-24T23:20:08.018Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:20:08.127Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+2024-05-24T23:20:08.130Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:20:08.203Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+.2024-05-24T23:20:09.208Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:20:09.309Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+.2024-05-24T23:20:09.312Z INFO devtools: COMMAND findElement("css selector", "a[href="#/tags/"].ember-view")
+2024-05-24T23:20:09.312Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-5' }
+2024-05-24T23:20:09.315Z INFO devtools: COMMAND elementClick("ELEMENT-5")
+2024-05-24T23:20:09.370Z INFO devtools: RESULT null
+2024-05-24T23:20:09.372Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:20:09.449Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+2024-05-24T23:20:09.451Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:20:09.639Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+.2024-05-24T23:20:10.644Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:20:10.729Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+.2024-05-24T23:20:10.732Z INFO devtools: COMMAND findElement("css selector", "a[href="#/tags/new/"].ember-view.gh-btn.gh-btn-green")
+2024-05-24T23:20:10.733Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-6' }
+2024-05-24T23:20:10.735Z INFO devtools: COMMAND elementClick("ELEMENT-6")
+2024-05-24T23:20:10.768Z INFO devtools: RESULT null
+2024-05-24T23:20:10.771Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:20:10.992Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+2024-05-24T23:20:10.994Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:20:11.067Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+.2024-05-24T23:20:12.071Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:20:12.153Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+.2024-05-24T23:20:12.156Z INFO devtools: COMMAND findElement("css selector", "#tag-name")
+2024-05-24T23:20:12.157Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-7' }
+2024-05-24T23:20:12.160Z INFO devtools: COMMAND elementClear("ELEMENT-7")
+2024-05-24T23:20:12.165Z INFO devtools: RESULT null
+2024-05-24T23:20:12.166Z INFO devtools: COMMAND elementSendKeys("ELEMENT-7", "tag-name-test-e2e")
+2024-05-24T23:20:12.214Z INFO devtools: RESULT null
+2024-05-24T23:20:12.215Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:20:12.297Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+2024-05-24T23:20:12.300Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:20:12.373Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+.2024-05-24T23:20:13.379Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:20:13.463Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+.2024-05-24T23:20:13.466Z INFO devtools: COMMAND findElement("css selector", "input[type="file"]")
+2024-05-24T23:20:13.467Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-8' }
+2024-05-24T23:20:13.470Z INFO devtools: COMMAND elementClear("ELEMENT-8")
+2024-05-24T23:20:13.472Z INFO devtools: RESULT null
+2024-05-24T23:20:13.490Z INFO devtools: COMMAND elementSendKeys("ELEMENT-8", "C:\Users\brall\OneDrive\Escritorio\estrategia-ghost-consolidada\Pruebas regresión visual\kraken\features\web\resources\image_feature.jpeg")
+2024-05-24T23:20:13.517Z INFO devtools: RESULT null
+2024-05-24T23:20:13.521Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:20:13.666Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+2024-05-24T23:20:13.671Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:20:13.778Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+.2024-05-24T23:20:14.783Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:20:14.873Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+.2024-05-24T23:20:14.877Z INFO devtools: COMMAND findElement("css selector", "section.view-actions > button.gh-btn.gh-btn-blue.gh-btn-icon.ember-view")
+2024-05-24T23:20:14.877Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-9' }
+2024-05-24T23:20:14.885Z INFO devtools: COMMAND elementClick("ELEMENT-9")
+2024-05-24T23:20:14.903Z INFO devtools: RESULT null
+2024-05-24T23:20:14.904Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:20:14.981Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+2024-05-24T23:20:14.986Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:20:15.096Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+.2024-05-24T23:20:16.101Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:20:16.200Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+.2024-05-24T23:20:16.203Z INFO devtools: COMMAND findElement("css selector", "a[href="#/tags/"].ember-view")
+2024-05-24T23:20:16.203Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-10' }
+2024-05-24T23:20:16.206Z INFO devtools: COMMAND elementClick("ELEMENT-10")
+2024-05-24T23:20:16.239Z INFO devtools: RESULT null
+2024-05-24T23:20:16.247Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:20:16.347Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+2024-05-24T23:20:16.349Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:20:16.443Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+.2024-05-24T23:20:17.460Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:20:17.550Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+.2024-05-24T23:20:17.554Z INFO devtools: COMMAND findElement("css selector", ".content-list > ol > li:last-of-type > a:first-of-type")
+2024-05-24T23:20:17.554Z INFO devtools: RESULT { 'element-6066-11e4-a52e-4f735466cecf': 'ELEMENT-11' }
+2024-05-24T23:20:17.556Z INFO devtools: COMMAND getElementText("ELEMENT-11")
+2024-05-24T23:20:17.558Z INFO devtools: RESULT tag-name-test-e2e
+2024-05-24T23:20:17.559Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:20:17.622Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+2024-05-24T23:20:17.624Z INFO devtools: COMMAND elementClick("ELEMENT-11")
+2024-05-24T23:20:17.649Z INFO devtools: RESULT null
+2024-05-24T23:20:17.651Z INFO devtools: COMMAND takeScreenshot()
+2024-05-24T23:20:17.732Z INFO devtools: RESULT iVBORw0KGgoAAAANSUhEUgAABcsAAAOvCAIAAACcQwv3AAAAAXNSR0IArs4c6...
+.2024-05-24T23:20:17.736Z INFO devtools: COMMAND deleteSession()
+2024-05-24T23:20:17.737Z INFO devtools: RESULT null
+.
+
+1 scenario (1 passed)
+17 steps (17 passed)
+0m15.630s (executing steps: 0m15.600s)
+
+
+Pruebas exitosas para: create_tag_v3.42.feature
+
+Archivo retornado a su ubicación original: create_tag_v3.42.feature
+
+=== Fin de pruebas para el archivo: create_tag_v3.42.feature en el directorio: C:\Users\brall\OneDrive\Escritorio\estrategia-ghost-consolidada\Pruebas regresión visual\kraken\features\web\tests_3.42_RV\ ===
+
+
+
+=== Fin del análisis de la carpeta: C:\Users\brall\OneDrive\Escritorio\estrategia-ghost-consolidada\Pruebas regresión visual\kraken\features\web\tests_3.42_RV\ ===
+
+
+
+=== Analizando la carpeta: C:\Users\brall\OneDrive\Escritorio\estrategia-ghost-consolidada\Pruebas regresión visual\kraken\features\web\tests_5.82_RV\ ===
+
+
+=== Ejecutando pruebas del archivo: post en el directorio: C:\Users\brall\OneDrive\Escritorio\estrategia-ghost-consolidada\Pruebas regresión visual\kraken\features\web\tests_5.82_RV\ ===
+
+Resultado de ejecución para post:
+
+
+Pruebas exitosas para: post
+
+Archivo retornado a su ubicación original: post
+
+=== Fin de pruebas para el archivo: post en el directorio: C:\Users\brall\OneDrive\Escritorio\estrategia-ghost-consolidada\Pruebas regresión visual\kraken\features\web\tests_5.82_RV\ ===
+
+
+=== Ejecutando pruebas del archivo: tag en el directorio: C:\Users\brall\OneDrive\Escritorio\estrategia-ghost-consolidada\Pruebas regresión visual\kraken\features\web\tests_5.82_RV\ ===
+
+Resultado de ejecución para tag:
+
+
+Pruebas exitosas para: tag
+
+Archivo retornado a su ubicación original: tag
+
+=== Fin de pruebas para el archivo: tag en el directorio: C:\Users\brall\OneDrive\Escritorio\estrategia-ghost-consolidada\Pruebas regresión visual\kraken\features\web\tests_5.82_RV\ ===
+
+
+
+=== Fin del análisis de la carpeta: C:\Users\brall\OneDrive\Escritorio\estrategia-ghost-consolidada\Pruebas regresión visual\kraken\features\web\tests_5.82_RV\ ===
+
+
+Reporte final guardado en: C:\Users\brall\OneDrive\Escritorio\estrategia-ghost-consolidada\Pruebas regresión visual\kraken\test_report.txt

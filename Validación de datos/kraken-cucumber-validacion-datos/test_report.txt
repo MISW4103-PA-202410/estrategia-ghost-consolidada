@@ -1,0 +1,246 @@
+Pruebas exitosas para: view_1.feature
+Successful tests:
+1 scenario (1 passed)
+20 steps (20 passed)
+0m20.455s (executing steps: 0m20.411s
+
+Pruebas exitosas para: view_2.feature
+Successful tests:
+1 scenario (1 passed)
+23 steps (23 passed)
+0m22.775s (executing steps: 0m22.728s
+
+Pruebas exitosas para: view_3.feature
+Successful tests:
+1 scenario (1 passed)
+27 steps (27 passed)
+0m25.538s (executing steps: 0m25.490s
+
+Pruebas exitosas para: edit_profile.feature
+Successful tests:
+1 scenario (1 passed)
+37 steps (37 passed)
+0m35.239s (executing steps: 0m35.195s
+
+Pruebas exitosas para: edit_profile2.feature
+Successful tests:
+1 scenario (1 passed)
+22 steps (22 passed)
+0m24.499s (executing steps: 0m24.457s
+
+Pruebas exitosas para: edit_profile3.feature
+Successful tests:
+1 scenario (1 passed)
+28 steps (28 passed)
+0m31.010s (executing steps: 0m30.960s
+
+Pruebas exitosas para: edit_profile4.feature
+Successful tests:
+1 scenario (1 passed)
+12 steps (12 passed)
+0m16.985s (executing steps: 0m16.954s
+
+Pruebas exitosas para: edit_profile5.feature
+Successful tests:
+1 scenario (1 passed)
+14 steps (14 passed)
+0m20.030s (executing steps: 0m19.997s
+
+Pruebas exitosas para: tag_1.feature
+Successful tests:
+1 scenario (1 passed)
+19 steps (19 passed)
+0m18.651s (executing steps: 0m18.616s
+
+1 scenario (1 passed)
+16 steps (16 passed)
+0m24.375s (executing steps: 0m24.333s
+
+1 scenario (1 passed)
+17 steps (17 passed)
+0m29.600s (executing steps: 0m29.559s
+
+Pruebas exitosas para: tag_10.feature
+Successful tests:
+1 scenario (1 passed)
+19 steps (19 passed)
+0m34.167s (executing steps: 0m34.129s
+
+1 scenario (1 passed)
+18 steps (18 passed)
+0m29.296s (executing steps: 0m29.253s
+
+1 scenario (1 passed)
+14 steps (14 passed)
+0m40.808s (executing steps: 0m40.771s
+
+Pruebas exitosas para: tag_13.feature
+Successful tests:
+1 scenario (1 passed)
+18 steps (18 passed)
+0m28.795s (executing steps: 0m28.752s
+
+1 scenario (1 passed)
+18 steps (18 passed)
+0m23.660s (executing steps: 0m23.621s
+
+Pruebas exitosas para: tag_14.feature
+Successful tests:
+1 scenario (1 passed)
+18 steps (18 passed)
+0m18.659s (executing steps: 0m18.625s
+
+Fallaron las pruebas para: tag_15_issue.feature
+Failed tests:
+1 scenario (1 failed)
+18 steps (1 failed, 1 skipped, 16 passed)
+0m20.686s (executing steps: 0m20.655s)
+
+Pruebas exitosas para: tag_16.feature
+Successful tests:
+1 scenario (1 passed)
+26 steps (26 passed)
+0m33.438s (executing steps: 0m33.392s
+
+1 scenario (1 passed)
+19 steps (19 passed)
+0m23.656s (executing steps: 0m23.617s
+
+1 scenario (1 passed)
+22 steps (22 passed)
+0m29.044s (executing steps: 0m29.001s
+
+Pruebas exitosas para: tag_19.feature
+Successful tests:
+1 scenario (1 passed)
+19 steps (19 passed)
+0m36.652s (executing steps: 0m36.611s
+
+1 scenario (1 passed)
+12 steps (12 passed)
+0m26.952s (executing steps: 0m26.912s
+
+1 scenario (1 passed)
+19 steps (19 passed)
+0m32.410s (executing steps: 0m32.376s
+
+Pruebas exitosas para: tag_22.feature
+Successful tests:
+1 scenario (1 passed)
+19 steps (19 passed)
+0m25.641s (executing steps: 0m25.605s
+
+1 scenario (1 passed)
+18 steps (18 passed)
+0m31.341s (executing steps: 0m31.301s
+
+1 scenario (1 passed)
+13 steps (13 passed)
+0m37.428s (executing steps: 0m37.387s
+
+Pruebas exitosas para: tag_25.feature
+Successful tests:
+1 scenario (1 passed)
+19 steps (19 passed)
+0m36.739s (executing steps: 0m36.697s
+
+1 scenario (1 passed)
+20 steps (20 passed)
+0m26.609s (executing steps: 0m26.564s
+
+1 scenario (1 passed)
+23 steps (23 passed)
+0m32.190s (executing steps: 0m32.142s
+
+Pruebas exitosas para: tag_28.feature
+Successful tests:
+1 scenario (1 passed)
+19 steps (19 passed)
+0m19.899s (executing steps: 0m19.862s
+
+Fallaron las pruebas para: tag_29_issue.feature
+Failed tests:
+1 scenario (1 failed)
+19 steps (1 failed, 2 skipped, 16 passed)
+0m20.626s (executing steps: 0m20.581s)
+
+Detailed failure steps:
+Failures:
+
+1) Scenario: Como usuario me registro y creo un nuevo tag con una descripción en X de 500 caracteres - ISSUE reportada, no muestra cantidad máxima de caracteres y solo manda error # features\tag_29_issue.feature:4
+   √ Before # features\web\support\hooks.js:63
+   √ Given I navigate to page "http://34.170.53.250/ghost/#/setup" # node_modules\kraken-node\lib\steps\web.js:41
+       Attachment (image/png)
+   √ And I wait for 2 seconds # node_modules\kraken-node\lib\steps\both.js:73
+       Attachment (image/png)
+   √ When I enter to the setup page "<SETUP_VALUES_REMOTE>" # features\web\step_definitions\step.js:10
+       Attachment (image/png)
+   √ And I wait for 2 seconds # node_modules\kraken-node\lib\steps\both.js:73
+       Attachment (image/png)
+   √ And I click in the tags menu button # features\web\step_definitions\step.js:562
+       Attachment (image/png)
+   √ And I wait for 1 seconds # node_modules\kraken-node\lib\steps\both.js:73
+       Attachment (image/png)
+   √ And I click in the new tag button # features\web\step_definitions\step.js:567
+       Attachment (image/png)
+   √ And I wait for 1 seconds # node_modules\kraken-node\lib\steps\both.js:73
+       Attachment (image/png)
+   √ And I fill with a random name the tag name "29" # features\web\step_definitions\step.js:687
+       Attachment (image/png)
+   √ And I wait for 1 seconds # node_modules\kraken-node\lib\steps\both.js:73
+       Attachment (image/png)
+   √ And I fill the tag description in x with 500 characters # features\web\step_definitions\step.js:1129
+       Attachment (image/png)
+   √ And I wait for 1 seconds # node_modules\kraken-node\lib\steps\both.js:73
+       Attachment (image/png)
+   √ And I click the save tag button # features\web\step_definitions\step.js:590
+       Attachment (image/png)
+   √ And I wait for 1 seconds # node_modules\kraken-node\lib\steps\both.js:73
+       Attachment (image/png)
+   √ And I click in the tags menu button # features\web\step_definitions\step.js:562
+       Attachment (image/png)
+   √ And I wait for 1 seconds # node_modules\kraken-node\lib\steps\both.js:73
+       Attachment (image/png)
+   × And I click the random name tag created # features\web\step_definitions\step.js:701
+       Attachment (image/png)
+       Error: Tag with name communis291716587249002 not found
+           at KrakenWorld.<anonymous> (C:\Users\brall\OneDrive\Escritorio\reporte-incidencias-ghost\kraken\features\web\step_definitions\step.js:716:9)
+           at runMicrotasks (<anonymous>)
+           at processTicksAndRejections (node:internal/process/task_queues:96:5)
+   - And I delete the tag created # features\web\step_definitions\step.js:719
+   - And I wait for 1 seconds # node_modules\kraken-node\lib\steps\both.js:73
+   √ After
+
+Pruebas exitosas para: tag_30.feature
+Successful tests:
+1 scenario (1 passed)
+15 steps (15 passed)
+0m15.019s (executing steps: 0m14.986s
+
+Pruebas exitosas para: tag_4.feature
+Successful tests:
+1 scenario (1 passed)
+20 steps (20 passed)
+0m29.391s (executing steps: 0m29.357s
+
+1 scenario (1 passed)
+19 steps (19 passed)
+0m19.689s (executing steps: 0m19.653s
+
+1 scenario (1 passed)
+11 steps (11 passed)
+0m25.226s (executing steps: 0m25.194s
+
+Pruebas exitosas para: tag_7.feature
+Successful tests:
+1 scenario (1 passed)
+18 steps (18 passed)
+0m21.506s (executing steps: 0m21.474s
+
+1 scenario (1 passed)
+19 steps (19 passed)
+0m26.762s (executing steps: 0m26.719s
+
+1 scenario (1 passed)
+18 steps (18 passed)
+0m32.677s (executing steps: 0m32.637s

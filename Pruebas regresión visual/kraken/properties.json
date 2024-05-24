@@ -1,0 +1,28 @@
+{
+  "EMAIL": "jaime@example.com",
+  "PASSWORD": "EgVLGq2!L5fXLt$",
+  "FULL_NAME": "Jaime Larson",
+  "BLOG_TITLE": "Kraken tests E2E",
+  "SETUP_VALUES": "Kraken tests E2E;Jaime Larson;jaime@example.com;EgVLGq2!L5fXLt$",
+  "SETUP_VALUES_REMOTE": "Kraken tests E2E;Jaime Larson;equipo20@misw4103.com;PRUEBAS12345",
+  "POST_TITLE": "Kraken post tests E2E",
+  "POST_DESCRIPTION": "This is a description for kraken's post tests E2E",
+  "PAGE_TITLE": "Kraken page tests E2E",
+  "PAGE_URL": "static-url-page-e2e",
+  "PAGE_TITLE_DRAFT": "DRAFT: Kraken page tests E2E",
+  "TAG_NAME": "tag-name-test-e2e",
+  "META_DATA_VALUES": "Kraken post tests E2E;This is a description for kraken's post tests E2E;localhost:2368/tag",
+  "VIEW_NAME": "viewKraken",
+  "NEW_PASSWORD_FIELDS": "PRUEBAS12345;PRUEBAS12345b;PRUEBAS12345b",
+  "SETUP_VALUES_NEW": "Kraken tests E2E;Jaime Larson;equipo20@misw4103.com;PRUEBAS12345b",
+  "OLD_PASSWORD_FIELDS": "PRUEBAS12345b;PRUEBAS12345;PRUEBAS12345",
+  "PROFILE_VALUES": "Jaime Larson 2;equipo201@misw4103.com",
+  "SETUP_VALUES_NEW_EMAIL": "equipo201@misw4103.com;PRUEBAS12345",
+  "OLD_PROFILE_VALUES": "Jaime Larson;equipo20@misw4103.com",
+  "SOCIAL_MEDIA": "https://facebook.com/zuck;https://twitter.com/elonmusk",
+  "VERSION": "v5.82",
+  "ERROR_NAME_MESSAGE_TAG": "You must specify a name for the tag.",
+  "ERROR_NAME_MESSAGE_HEX_COLOR": "The colour should be in valid hex format",
+  "BAD_COLOR_HEX": "This is not a valid hex color."
+
+}
