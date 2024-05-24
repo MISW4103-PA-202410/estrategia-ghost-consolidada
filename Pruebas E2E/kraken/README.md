@@ -8,9 +8,7 @@ en caso de no tener las versiones de node instalarlas con este comando:"
 
 `nvm install v16.17.0`
 
-que serán necesarias para ejecutar tanto kraken como backstop.
-
-
+que serán necesarias para ejecutar kraken.
 
 #### Instalación y Configuración
 
