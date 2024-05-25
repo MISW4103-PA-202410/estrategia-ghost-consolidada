@@ -1,0 +1,16 @@
+{
+    "url": "http://34.170.53.250/ghost/#/setup",
+    "headless": false,
+    "depthLevels": 1,
+    "inputValues": true,
+    "values": {
+        "password": "PRUEBAS12345",
+        "identification": "equipo20@misw4103.com",
+        "url": "test"
+    },
+    "browsers": [
+        "chromium",
+        "webkit",
+        "firefox"
+    ]
+}
