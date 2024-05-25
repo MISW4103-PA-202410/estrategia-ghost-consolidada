@@ -220,25 +220,6 @@ After(async function (scenario) {
   let result = scenario.result.status
 
   scenarioCounter++;
-
-  if(Status.FAILED) {
-
-    const stream = await scope.page.screenshot({path: `./output/screenshots/${counter}-${result}-[${name}].png`, fullPage: true});
-    // close the current page at end of scenario - to ensure fresh page is loaded each time
-    await scope.page.close()
-    // increment counter
-    counter++
-    return this.attach(stream, 'image/png');
-  } else {
-    let timestamp = moment()
-    // take screenshot of the last page
-    const stream = await scope.page.screenshot({ path: `./output/screenshots/${counter}-${result}-[${name}]-${timestamp.valueOf()}.png`, fullPage: true })
-    // close the current page at end of scenario - to ensure fresh page is loaded each time
-    await scope.page.close()
-    // increment counter
-    counter++
-    return this.attach(stream, 'image/png');
-  }
 })
 
 AfterAll(async () => {
