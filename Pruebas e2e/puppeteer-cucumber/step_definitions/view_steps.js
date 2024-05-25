@@ -16,9 +16,13 @@ Given('aplico un filtro de usuario', async () => {
     await scope.pages.posts.filterByUser();
 });
 
+
 Given('aplico un filtro con el estado {string}', async (estado) => {
     await scope.pages.posts.filterByStatus(estado);
 });
+
+// Write steps for
+// aplico un filtro por el primer tag
 
 Given('aplico un filtro por el primer tag', async () => {
     await scope.pages.posts.filterByTag();

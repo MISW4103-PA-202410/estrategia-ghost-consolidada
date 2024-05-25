@@ -1,5 +1,4 @@
 Feature: Crear vista
-
     @run @views
     Scenario: escenario_1 - Crear vista para filtro de usuario
         Given inicio la aplicación
@@ -11,7 +10,7 @@ Feature: Crear vista
         And la vista con nombre "Admin View" se encuentra en el menu
         And borro la vista con nombre "Admin View"
 
-    @done @run @views
+    @done @views
     Scenario: escenario_2 - Crear vista con color con fitro de usuario y visibilidad
         Given inicio la aplicación
         And inicio sesión si es necesario
