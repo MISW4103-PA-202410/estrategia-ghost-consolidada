@@ -28,7 +28,7 @@ Leer README en [puppeteer-cucumber](https://github.com/MISW4103-PA-202410/estrat
 
 ### Instrucciones pruebas E2E Kraken
 
-Leer README en [kraken](https://github.com/MISW4103-PA-202410/estrategia-ghost-consolidada/blob/main/Pruebas%20E2E/kraken/README.md)
+Leer README en [kraken](https://github.com/MISW4103-PA-202410/estrategia-ghost-consolidada/tree/main/Pruebas%20E2E%20version%201/kraken)
 
 
 ## Instrucciones pruebas Regresión Visual
