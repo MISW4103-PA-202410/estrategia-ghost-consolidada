@@ -12,18 +12,24 @@ Este proyecto utiliza ResembleJS y un script desarrollado para comparar las dife
 
 ## Instrucciones de instalación
 
-1. Clone el repositorio.
-`git clone https://github.com/MISW4103-PA-202410/reporte-incidencias-ghost.git`
+1. Clone el repositorio e ingrese al proyecto.
 
-2. Diríjase a la carpeta "resemble".
-`cd resemble`
+`git clone https://github.com/MISW4103-PA-202410/estrategia-ghost-consolidada.git`
 
-3. Instale las dependencias del sistema de pruebas.
+`cd estrategia-ghost-consolidada`
+
+3. Diríjase a la carpeta "resemble" dentro de "Pruebas regresión visual".
+4. 
+`cd "Pruebas regresión visual/resemble"`
+
+5. Instale las dependencias del sistema de pruebas.
+6. 
 `npm install`
 
 ## Ejecución de las pruebas
 
 Ejecute el siguiente comando para ejecutar las comparaciones de imágenes capturadas y generar el reporte.
+
 `node index.js`
 
 ## Visualización del reporte
