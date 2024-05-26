@@ -5,6 +5,10 @@
 - Brian Rivera: b.riverah@uniandes.edu.co
 - Andrés Peña: ca.penad@uniandes.edu.co
 
+### Wiki
+
+En la wiki encontrara toda la documentación asociada a la estrategia de pruebas consolidada [Wiki](https://github.com/MISW4103-PA-202410/estrategia-ghost-consolidada/wiki)
+
 ## Instrucciones pruebas reconocimiento
 
 ### Instrucciones pruebas reconocimiento monkey-cypress
