@@ -9,11 +9,12 @@ Este proyecto utiliza CucumberJS para la definición de escenarios de prueba a t
 
 1. Clone el repositorio.
 
-`git clone https://github.com/MISW4103-PA-202410/reporte-incidencias-ghost.git`
+`git clone [https://github.com/MISW4103-PA-202410/reporte-incidencias-ghost.git](https://github.com/MISW4103-PA-202410/estrategia-ghost-consolidada)`
 
 2. Diríjase a la carpeta "puppeteer-cucumber".
 
-`cd puppeteer-cucumber`
+`cd cd Validación\ de\ datos/`
+`cd puppeteer-cucumber-validacion-datos/`
 
 3. Instale las dependencias del sistema de pruebas.
 
