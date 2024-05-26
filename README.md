@@ -49,7 +49,7 @@ Leer README en [resemble](https://github.com/MISW4103-PA-202410/estrategia-ghost
 
 ### Instrucciones pruebas basadas en pool de datos Puppeteer - Cucumber
 puppeteer-cucumber
-Leer README en [puppeteer-cucumber](https://github.com/MISW4103-PA-202410/estrategia-ghost-consolidada/blob/main/Pruebas%20e2e/puppeteer-cucumber/README.md)
+Leer README en [puppeteer-cucumber](https://github.com/MISW4103-PA-202410/estrategia-ghost-consolidada/blob/main/Validaci%C3%B3n%20de%20datos/puppeteer-cucumber-validacion-datos/README.md)
 
 ### Instrucciones pruebas basadas en pool de datos E2E Kraken
 kraken
