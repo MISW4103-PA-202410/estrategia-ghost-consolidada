@@ -19,14 +19,17 @@ Este proyecto utiliza ResembleJS y un script desarrollado para comparar las dife
 `cd estrategia-ghost-consolidada`
 
 3. Diríjase a la carpeta "resemble" dentro de "Pruebas regresión visual".
+4. 
 `cd "Pruebas regresión visual/resemble"`
 
-4. Instale las dependencias del sistema de pruebas.
+5. Instale las dependencias del sistema de pruebas.
+6. 
 `npm install`
 
 ## Ejecución de las pruebas
 
 Ejecute el siguiente comando para ejecutar las comparaciones de imágenes capturadas y generar el reporte.
+
 `node index.js`
 
 ## Visualización del reporte
