@@ -13,7 +13,7 @@ Este proyecto utiliza ResembleJS y un script desarrollado para comparar las dife
 ## Instrucciones de instalación
 
 1. Clone el repositorio.
-`git clone https://github.com/MISW4103-PA-202410/reporte-incidencias-ghost.git`
+`git clone https://github.com/MISW4103-PA-202410/estrategia-ghost-consolidada.git`
 
 2. Diríjase a la carpeta "resemble".
 `cd resemble`
