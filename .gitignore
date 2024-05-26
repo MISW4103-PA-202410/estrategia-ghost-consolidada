@@ -1,4 +1,5 @@
 node_modules/
 bitmaps_test/
 kraken/reports
-backstop
+*/puppeteer-cucumber/output/
+backstop0

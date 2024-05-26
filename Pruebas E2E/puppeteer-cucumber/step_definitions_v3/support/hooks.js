@@ -16,7 +16,6 @@ const SettingsPage = require('../pages/SettingsPage')
 const TagListPage = require('../pages/TagListPage')
 const TagPage = require('../pages/TagPage')
 const UserHistoryPage = require('../pages/UserHistoryPage');
-const { create } = require('domain');
 const path = require('path');
 
 setDefaultTimeout(constants.pageTimeout * 1000);
@@ -42,7 +41,7 @@ BeforeAll(async () => {
             // '--enable-logging', '--v=1'
         ],
     // set 'devtools: true' => if you want to be able to launch the dev tools console too
-    //  just need to add 'await scope.page.evaluate(() => {debugger})' to the step
+    //  just need to add 'await scope.page.evaluate(() => {debugger})' to the step 
     //  you want to stop at
     devtools: false
    }
@@ -68,7 +67,7 @@ BeforeAll(async () => {
   if(fse.pathExistsSync('output/report')) {
     console.log('Clear report directory ...')
     // remove any .html files in the report directory > to ensure only latest reports are in the folder
-    fs.readdirSync('output/report').forEach(file => {
+    fs.readdirSync('output/report').forEach(file => {      
       if(file.match(/.*\.html/) != null) {
         console.log(`removing file: output/report/${file}`)
         fse.removeSync(`output/report/${file}`)
@@ -158,11 +157,12 @@ Before(async () => {
   scope.page = await scope.browser.newPage();
   createPageObjects(scope.page)
 
+  
   // add in accept language header - this is required when running in headless mode
   await scope.page.setExtraHTTPHeaders({
     'Accept-Language': 'en-US,en;q=0.8,zh-TW;q=0.6'
   });
-
+  
   // Clean variables
   scope.variables = {};
   scope.variables.screenshotPath = `./output/screenshots/${constants.reportConfig.metadata["App Version"]}/`;
@@ -175,6 +175,8 @@ AfterStep(async function({pickle, pickleStep, gherkinDocument, result, testCaseS
     scenarioCounter = 1;
     oldFeatureName = featureName;
   }
+
+  
   const stepNumber = stepCounter++;
   //Paths
   const version = constants.reportConfig.metadata["App Version"];
@@ -203,24 +205,24 @@ After(async function (scenario) {
 
   scenarioCounter++;
 
-  // if(Status.FAILED) {
+  if(Status.FAILED) {
 
-  //   // const stream = await scope.page.screenshot({path: `./output/screenshots/${counter}-${result}-[${name}].png`, fullPage: true});
-  //   // close the current page at end of scenario - to ensure fresh page is loaded each time
-  //   await scope.page.close()
-  //   // increment counter
-  //   counter++
-  //   return this.attach(stream, 'image/png');
-  // } else {
-  //   let timestamp = moment()
-  //   // take screenshot of the last page
-  //   // const stream = await scope.page.screenshot({ path: `./output/screenshots/${counter}-${result}-[${name}]-${timestamp.valueOf()}.png`, fullPage: true })
-  //   // close the current page at end of scenario - to ensure fresh page is loaded each time
-  //   await scope.page.close()
-  //   // increment counter
-  //   counter++
-  //   return this.attach(stream, 'image/png');
-  // }
+    const stream = await scope.page.screenshot({path: `./output/screenshots/${counter}-${result}-[${name}].png`, fullPage: true});
+    // close the current page at end of scenario - to ensure fresh page is loaded each time
+    await scope.page.close()
+    // increment counter
+    counter++
+    return this.attach(stream, 'image/png');
+  } else {
+    let timestamp = moment()
+    // take screenshot of the last page
+    const stream = await scope.page.screenshot({ path: `./output/screenshots/${counter}-${result}-[${name}]-${timestamp.valueOf()}.png`, fullPage: true })
+    // close the current page at end of scenario - to ensure fresh page is loaded each time
+    await scope.page.close()
+    // increment counter
+    counter++
+    return this.attach(stream, 'image/png');
+  }
 })
 
 AfterAll(async () => {
@@ -255,7 +257,6 @@ async function deleteContent() {
       scope.page.waitForNavigation({ waitUntil: 'networkidle0'}),
       scope.pages.principal.navigateToSite()
     ]);
-    await scope.pages.principal.navigateToSettings();
     await scope.pages.settings.gotToLabs();
     await scope.pages.labs.deleteAllContent();
 
