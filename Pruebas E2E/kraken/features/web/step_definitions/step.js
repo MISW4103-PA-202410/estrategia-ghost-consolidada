@@ -148,7 +148,7 @@ async function actionAndScreenshot(
 When(
   "I click in the add post button and take a screenshot for version {kraken-string} feature {string} scenario {string} step {string}",
   async function (version, feature, scenario, step) {
-    await actionAndScreenshot("#ember20", "click", this.driver, {
+    await actionAndScreenshot('a[data-test-nav="new-story"]', "click", this.driver, {
       version,
       feature,
       scenario,
@@ -172,7 +172,7 @@ When(
 When(
   "I enter a title for the post {kraken-string} and take a screenshot for version {kraken-string} feature {string} scenario {string} step {string}",
   async function (title, version, feature, scenario, step) {
-    let element = await this.driver.$("#ember49");
+    let element = await this.driver.$("textarea[data-test-editor-title-input]");
 
     await element.setValue(title);
 
