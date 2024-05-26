@@ -12,8 +12,6 @@ que serán necesarias para ejecutar kraken.
 
 #### Instalación y Configuración
 
-
-
 1. Ejecutar el comando nvm `nvm use v16.17.0` en la carpeta kraken donde está ubicado este readme.
 2. Instalar las dependencias con el comando `npm i`
 3. Verificar que se tienen todos los requisisitos instalados con el comando `npx kraken-node doctor`

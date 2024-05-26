@@ -13,8 +13,8 @@ To execute the testing tool use the following command:
 
 ```
 cd "Rippupet - Ripper"
+npm install
 node index.js
-
 ```
 For example:
 
