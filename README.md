@@ -5,6 +5,21 @@
 - Brian Rivera: b.riverah@uniandes.edu.co
 - Andrés Peña: ca.penad@uniandes.edu.co
 
+### Wiki
+
+En la wiki encontrara toda la documentación asociada a la estrategia de pruebas consolidada [Wiki](https://github.com/MISW4103-PA-202410/estrategia-ghost-consolidada/wiki)
+
+## Instrucciones pruebas reconocimiento
+
+### Instrucciones pruebas reconocimiento monkey-cypress
+
+Leer README en [Monkey-Cypress](https://github.com/MISW4103-PA-202410/estrategia-ghost-consolidada/blob/main/Pruebas%20de%20reconocimiento/monkey-cypress/README.md)
+
+
+### Instrucciones pruebas reconocimiento ripper
+
+Leer README en [Ripper](https://github.com/MISW4103-PA-202410/estrategia-ghost-consolidada/tree/main/Pruebas%20de%20reconocimiento/Rippupet%20-%20Ripper)
+
 ## Instrucciones pruebas E2E 
 
 ### Instrucciones pruebas E2E Puppeteer - Cucumber

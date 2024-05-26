@@ -12,13 +12,20 @@ Modify the required parameters.
 To execute the testing tool use the following command:
 
 ```
+cd "Rippupet - Ripper"
+npm install
 node index.js
-
 ```
-
 For example:
 
 ```
 node index.js
+```
 
+to see the results 
+
+```
+cd results
+
+npx http-server
 ```
