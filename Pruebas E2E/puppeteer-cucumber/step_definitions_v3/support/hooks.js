@@ -116,6 +116,12 @@ BeforeAll(async () => {
   }
   else {
     console.log("No existe la carpeta compartida");
+    fse.ensureDirSync(shared);
+    fse.ensureDirSync(crear_page);
+    fse.ensureDirSync(crear_post);
+    fse.ensureDirSync(crear_tag);
+    fse.ensureDirSync(crear_vista);
+    fse.ensureDirSync(editar_perfil);
   }
 
   // *************************************** \\
