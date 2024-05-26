@@ -14,7 +14,7 @@
         "pctBwChaos":1,
         "pctActions":27,
         "pctScroll":1,
-        "features":["arroz con coco"]
+        "features":["members"]
     },
     "integrationFolder": "./cypress/integration/monkey",
     "pluginsFile": "./cypress/plugins/index.js",

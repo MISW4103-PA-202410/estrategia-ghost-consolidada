@@ -665,9 +665,9 @@ describe( `${appName} under smarter monkeys`, function() {
             let fvalidFeatures= ["pages","posts","members","tags"]
             let featureValido = false;
             //Preguntar en una sola linea si features esta en la lista de features validos
-            featureValido = fvalidFeatures.includes(features);
+            featureValido = fvalidFeatures.includes(features[0]);
             if(featureValido){
-                const feature = features[i];
+                const feature = features[0];
                 pending_events[0] = events*pct_clicks/100;
                 //pending_events[1] = events*pct_scrolls/100;
                 pending_events[1] = events*pct_selectors/100;
