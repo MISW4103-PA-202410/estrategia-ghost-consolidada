@@ -47,6 +47,11 @@ function fakerPool(attribute) {
     {
         return faker.internet.userName();
     }
+    //special characters
+    else if (attribute === 'special_characters')
+    {
+        return faker.random.alphaNumeric(20) + '!"#$%&';
+    }
 }
 
 function dataGenerator(data) {

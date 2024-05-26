@@ -12,7 +12,8 @@ module.exports = {
     settings: undefined,
     tagList: undefined,
     tag: undefined,
-    userHistory: undefined
+    userHistory: undefined,
+    members: undefined
   },
   variables: {},
   dataPool:{},

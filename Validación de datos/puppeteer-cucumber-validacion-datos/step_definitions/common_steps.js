@@ -66,6 +66,9 @@ Given('abro la sección de {string}', async (section) => {
         case 'Settings':
             navigateToPage = scope.pages.principal.navigateToSettings;
             break;
+        case 'Members':
+            navigateToPage = scope.pages.principal.navigateToMembers;
+            break;
         default:
             throw new Error(`Sección no soportada: ${section}`);
     }
@@ -86,6 +89,9 @@ Given('doy click en {string}', async (element) => {
             break;
         case 'New tag':
             await scope.pages.tagList.newTag();
+            break;
+        case 'New member':
+            await scope.pages.members.newMember();
             break;
         default:
             throw new Error(`Elemento no soportado: ${element}`);

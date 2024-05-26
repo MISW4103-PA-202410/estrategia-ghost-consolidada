@@ -15,6 +15,7 @@ const ProfilePage = require('../pages/ProfilePage')
 const SettingsPage = require('../pages/SettingsPage')
 const TagListPage = require('../pages/TagListPage')
 const TagPage = require('../pages/TagPage')
+const MembersPage = require('../pages/MembersPage')
 const UserHistoryPage = require('../pages/UserHistoryPage');
 const { create } = require('domain');
 const path = require('path');
@@ -94,9 +95,6 @@ BeforeAll(async () => {
 
   //Feature paths
   crear_page = path.join(__dirname, `../../../screenshots/puppeteer/${version}/crear-page`);
-  crear_post = path.join(__dirname, `../../../screenshots/puppeteer/${version}/crear-post`);
-  crear_tag = path.join(__dirname, `../../../screenshots/puppeteer/${version}/crear-tag`);
-  crear_vista = path.join(__dirname, `../../../screenshots/puppeteer/${version}/crear-vista`);
   editar_perfil = path.join(__dirname, `../../../screenshots/puppeteer/${version}/editar-perfil`);
 
   //verificar que carpetas compartidas existan
@@ -104,16 +102,10 @@ BeforeAll(async () => {
   if(fse.pathExistsSync(shared)) {
     //Features paths
     fse.removeSync(crear_page);
-    fse.removeSync(crear_post);
-    fse.removeSync(crear_tag);
-    fse.removeSync(crear_vista);
     fse.removeSync(editar_perfil);
     // recreate directory
     fse.ensureDirSync(shared);
     fse.ensureDirSync(crear_page);
-    fse.ensureDirSync(crear_post);
-    fse.ensureDirSync(crear_tag);
-    fse.ensureDirSync(crear_vista);
     fse.ensureDirSync(editar_perfil);
   }
   else {
@@ -194,7 +186,7 @@ AfterStep(async function({pickle, pickleStep, gherkinDocument, result, testCaseS
     oldFeatureName = featureName;
   }
   const stepNumber = stepCounter++;
-  //Paths
+/*   //Paths
   const version = constants.reportConfig.metadata["App Version"];
   const scenarioName = pickle.name.split(' - ')[0];
   const screenshotPath = `../../../screenshots/puppeteer/${version}/${featureName}/${scenarioName}/`;
@@ -206,7 +198,7 @@ AfterStep(async function({pickle, pickleStep, gherkinDocument, result, testCaseS
   }
 
   //Screenshot
-  const screenshot = await scope.page.screenshot({path: fullPath, fullPage: true});
+  const screenshot = await scope.page.screenshot({path: fullPath, fullPage: true}); */
 
 })
 
@@ -245,7 +237,9 @@ async function createPageObjects(page) {
     tagList: new TagListPage(page),
     tag: new TagPage(page),
     userHistory: new UserHistoryPage(page),
-    labs: new LabsPage(page)
+    labs: new LabsPage(page),
+    members: new MembersPage(page)
+
   }
 }
 

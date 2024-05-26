@@ -10,6 +10,7 @@ class PrincipalPage {
         this.navigateToTags = this.navigateToTags.bind(this);
         this.navigateToProfile = this.navigateToProfile.bind(this);
         this.navigateToSettings = this.navigateToSettings.bind(this);
+        this.navigateToMembers = this.navigateToMembers.bind(this);
     }
 
     async isHomePage() {
@@ -97,6 +98,17 @@ class PrincipalPage {
         await Promise.all([
             this.page.waitForNavigation(),
             this.page.click('a[data-test-nav="settings"]')
+        ]);
+    }
+
+    async navigateToMembers() {
+        // Espera a que el elemento con la clase "gh-viewport" esté disponible en la página
+        await this.page.waitForSelector('a[data-test-nav="members"]');
+
+        // Navega a la sección de "Members" haciendo clic en el enlace correspondiente
+        await Promise.all([
+            this.page.waitForNavigation(),
+            this.page.click('a[data-test-nav="members"]')
         ]);
     }
 }
