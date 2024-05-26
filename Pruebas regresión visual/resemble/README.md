@@ -12,13 +12,15 @@ Este proyecto utiliza ResembleJS y un script desarrollado para comparar las dife
 
 ## Instrucciones de instalación
 
-1. Clone el repositorio.
+1. Clone el repositorio e ingrese al proyecto.
 `git clone https://github.com/MISW4103-PA-202410/estrategia-ghost-consolidada.git`
 
-2. Diríjase a la carpeta "resemble".
-`cd resemble`
+`cd estrategia-ghost-consolidada`
 
-3. Instale las dependencias del sistema de pruebas.
+3. Diríjase a la carpeta "resemble" dentro de "Pruebas regresión visual".
+`cd "Pruebas regresión visual/resemble"`
+
+4. Instale las dependencias del sistema de pruebas.
 `npm install`
 
 ## Ejecución de las pruebas
