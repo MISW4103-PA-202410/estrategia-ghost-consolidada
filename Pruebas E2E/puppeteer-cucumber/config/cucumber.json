@@ -8,5 +8,10 @@
     "format": ["html:cucumber-report.html"],
     "paths": ["step_definitions/features/*.feature"],
     "require": ["step_definitions/"]
+  },
+  "ghost-3": {
+    "format": ["html:cucumber-report.html"],
+    "paths": ["step_definitions_v3/features/*.feature"],
+    "require": ["step_definitions_v3/"]
   }
 }

@@ -4,6 +4,8 @@ const path = require('path');
 
 // Lista de directorios base
 const sourceDirs = [
+  path.join(__dirname, './features/web/e2e/post'),
+  path.join(__dirname, './features/web/e2e/tag'),
   path.join(__dirname, './features/web/e2e/view'),
   path.join(__dirname, './features/web/e2e/edit_profile'),
 ];
