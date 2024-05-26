@@ -24,7 +24,7 @@ Leer README en [Ripper](https://github.com/MISW4103-PA-202410/estrategia-ghost-c
 
 ### Instrucciones pruebas E2E Puppeteer - Cucumber
 
-Leer README en [puppeteer-cucumber](https://github.com/MISW4103-PA-202410/estrategia-ghost-consolidada/blob/main/Pruebas%20e2e/puppeteer-cucumber/README.md)
+Leer README en [puppeteer-cucumber](https://github.com/MISW4103-PA-202410/estrategia-ghost-consolidada/tree/main/Pruebas%20E2E%20version%201/puppeteer-cucumber)
 
 ### Instrucciones pruebas E2E Kraken
 
@@ -34,7 +34,7 @@ Leer README en [kraken](https://github.com/MISW4103-PA-202410/estrategia-ghost-c
 ## Instrucciones pruebas Regresión Visual
 ### Instrucciones Pruebas de E2E para version ghost 5.81 y 3.42 Puppeteer - Cucumber
 
-Leer README en [puppeteer-cucumber]()
+Leer README en [puppeteer-cucumber](https://github.com/MISW4103-PA-202410/estrategia-ghost-consolidada/tree/main/Pruebas%20E2E%20version%201/puppeteer-cucumber)
 
 ### Instrucciones Pruebas de E2E para version ghost 5.81 y 3.42 Kraken
 
