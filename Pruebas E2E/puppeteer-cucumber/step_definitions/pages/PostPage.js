@@ -180,7 +180,7 @@ class PostPage {
         await this.page.click(tagsFilter);
 
         //Select tag
-        let tag = 'ul[role="listbox"]>li[data-option-index="0"]';
+        let tag = 'ul[role="listbox"]>li[data-option-index="1"]';
         await this.page.waitForSelector(tag);
         await this.page.click(tag);
         await new Promise(r => setTimeout(r, 500));
